@@ -61,3 +61,6 @@ g++ -std=c++17 -I. -Ipath/to/eigen -o radar_tracker \
     GNN_filter.cpp initialize.cpp parameters.cpp radar_info.cpp \
     simulate_target_truth.cpp target_info.cpp track_manager.cpp \
     get_measurements_radar.cpp RSPchain_odd.cpp simulated_output.cpp
+```
+### Output
+![Radar Target Tracking Simulation Output](images/radar_tracking_output.png)
