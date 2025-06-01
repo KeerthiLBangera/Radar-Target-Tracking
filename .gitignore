@@ -5,3 +5,5 @@ DBSCAN.csv
 DRONE_afe.csv
 g++
 simulated_output.exe
+plot_data_o.txt
+plot_script_o.gnu
