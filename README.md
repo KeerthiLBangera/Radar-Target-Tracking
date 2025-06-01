@@ -63,4 +63,4 @@ g++ -std=c++17 -I. -Ipath/to/eigen -o radar_tracker \
     get_measurements_radar.cpp RSPchain_odd.cpp simulated_output.cpp
 ```
 ### Output
-![Radar Target Tracking Simulation Output](images/radar_tracking_output.png)
+![Radar Target Tracking Simulation Output](images/a.png)
