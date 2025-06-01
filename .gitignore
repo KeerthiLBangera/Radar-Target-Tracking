@@ -1,0 +1,7 @@
+.vscode
+gnuplot
+CAR_afe.csv
+DBSCAN.csv
+DRONE_afe.csv
+g++
+simulated_output.exe
